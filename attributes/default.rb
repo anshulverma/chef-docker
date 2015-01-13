@@ -116,7 +116,7 @@ default['docker']['package']['repo_url'] = value_for_platform(
 )
 default['docker']['package']['repo_keyserver'] = 'keyserver.ubuntu.com'
 # Found at https://get.docker.io/ubuntu/
-default['docker']['package']['repo_key'] = 'A88D21E9'
+default['docker']['package']['repo_key'] = '36A1D7869245C8950F966E92D8576A8BA88D21E9'
 
 ## Source installation attributes
 
